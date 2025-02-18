@@ -1,0 +1,50 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1675269798053
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675271518838
+  login: 1675271341025
+  kits:
+    tools: 1675270836473
+money: '0'
+last-account-name: Jeb
+lastlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: 56.96413761387295
+  y: -192.508971647153
+  z: 3.300000011920929
+  yaw: 206.1558074951172
+  pitch: 25.949995040893555
+logoutlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: 67.13749998807909
+  y: 38.0
+  z: 7.862500011920928
+  yaw: -133.01580810546875
+  pitch: -1.2616499662399292
+homes:
+  home:
+    world: 4e228388-a923-4906-b86e-b835795ae05c
+    world-name: lobby_test
+    x: -40.239907426030584
+    y: 56.0
+    z: 16.852545580446005
+    yaw: -90.57184600830078
+    pitch: 31.30364227294922
+nickname: jeb

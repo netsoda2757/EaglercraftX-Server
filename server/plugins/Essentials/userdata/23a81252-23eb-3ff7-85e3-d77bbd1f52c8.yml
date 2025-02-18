@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675348279562
+  login: 1675348229706
+money: '0'
+last-account-name: squrelnutzipper
+lastlocation:
+  world: 0e5cc9e4-864d-47f9-b287-b44a4ba0a6a1
+  world-name: world
+  x: -177.73945815387083
+  y: -314.8599280428328
+  z: 127.74425889737155
+  yaw: 13.80000114440918
+  pitch: -90.0
+logoutlocation:
+  world: 0e5cc9e4-864d-47f9-b287-b44a4ba0a6a1
+  world-name: world
+  x: -185.08692855759762
+  y: 64.0
+  z: 126.41053956365758
+  yaw: 43.800018310546875
+  pitch: 10.80000114440918

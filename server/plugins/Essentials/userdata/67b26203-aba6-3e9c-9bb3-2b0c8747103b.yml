@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1674848706045
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675086778335
+  login: 1675086675200
+money: '0'
+last-account-name: Its_Rae
+logoutlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -4.968959952623275
+  y: 53.91999998688698
+  z: -1.6606569233149788
+  yaw: -272.04998779296875
+  pitch: 22.05000114440918
+lastlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -2.88848114810974
+  y: -67.6768963798221
+  z: 43.34346175386572
+  yaw: 194.38490295410156
+  pitch: 21.351417541503906
+homes:
+  home:
+    world: 4e228388-a923-4906-b86e-b835795ae05c
+    world-name: lobby_test
+    x: -27.6319739035716
+    y: 52.0
+    z: 38.9335135817739
+    yaw: 280.6000671386719
+    pitch: 13.999996185302734

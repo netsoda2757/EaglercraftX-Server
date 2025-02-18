@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1675067994320
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675127309379
+  login: 1675127017372
+money: '0'
+last-account-name: dudu_dream
+lastlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -35.08761898772567
+  y: 42.5
+  z: 24.19999998807907
+  yaw: -302.85009765625
+  pitch: -1.9000005722045898
+logoutlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -8.589355222965457
+  y: 42.0
+  z: 10.267198636560304
+  yaw: -330.75006103515625
+  pitch: 15.750000953674316

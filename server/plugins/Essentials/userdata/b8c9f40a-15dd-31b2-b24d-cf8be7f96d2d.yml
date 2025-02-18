@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675355113480
+  login: 1675354898539
+money: '0'
+last-account-name: Eldon_
+logoutlocation:
+  world: c9db030f-8b4b-48f6-9526-5a4d53a79783
+  world-name: creative
+  x: 182.33387609477816
+  y: 65.0
+  z: -114.69999998807907
+  yaw: -100.5
+  pitch: 54.14999771118164
+lastlocation:
+  world: 0e5cc9e4-864d-47f9-b287-b44a4ba0a6a1
+  world-name: world
+  x: -188.5
+  y: -11681.002972805298
+  z: 125.5
+  yaw: 210.00006103515625
+  pitch: -36.0000114440918

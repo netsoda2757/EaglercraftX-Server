@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1682430580911
+  login: 1682430361015
+money: '0'
+last-account-name: purple_haze
+lastlocation:
+  world: 9b42cb43-f409-4105-a24b-434f80fde442
+  world-name: survival
+  x: -11.474153092566342
+  y: 120.5
+  z: -23.999655409029728
+  yaw: -185.4375
+  pitch: 13.5625
+logoutlocation:
+  world: 9b42cb43-f409-4105-a24b-434f80fde442
+  world-name: survival
+  x: 0.16659953128515248
+  y: 67.0
+  z: -3.5710359834278846
+  yaw: 88.8125
+  pitch: 47.484375

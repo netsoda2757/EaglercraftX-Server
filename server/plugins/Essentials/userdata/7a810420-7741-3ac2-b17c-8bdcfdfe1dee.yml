@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674667808970
+  login: 1674666951964
+money: '0'
+last-account-name: Zzzzz
+logoutlocation:
+  world: 6bfe3f51-9781-4e3a-ad35-9f70352cc27e
+  world-name: bedwars
+  x: -47.69999998807907
+  y: 64.0
+  z: -40.69999998807907
+  yaw: 217.0447540283203
+  pitch: -34.226356506347656
+lastlocation:
+  world: 6bfe3f51-9781-4e3a-ad35-9f70352cc27e
+  world-name: bedwars
+  x: -45.51896190136354
+  y: -192.29190872437448
+  z: -17.967670642535417
+  yaw: 7.26416015625
+  pitch: 14.066793441772461

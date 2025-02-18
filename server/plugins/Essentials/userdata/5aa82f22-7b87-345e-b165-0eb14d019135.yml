@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675485600990
+  login: 1675485193282
+money: '0'
+last-account-name: ViggYeeish411
+lastlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -35.66224632641371
+  y: 43.0
+  z: 25.234277182456385
+  yaw: -290.2544860839844
+  pitch: 7.525208473205566
+logoutlocation:
+  world: 6bfe3f51-9781-4e3a-ad35-9f70352cc27e
+  world-name: bedwars
+  x: 15.79131394118956
+  y: 65.0
+  z: 67.66157062009165
+  yaw: -347.7242126464844
+  pitch: 5.091228485107422

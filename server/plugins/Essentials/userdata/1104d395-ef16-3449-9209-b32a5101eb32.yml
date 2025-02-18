@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1682344012662
+  login: 1682343901770
+money: '0'
+last-account-name: YeeishEagler805
+logoutlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: 27.86007855346493
+  y: 38.0
+  z: 8.923357989052336
+  yaw: -88.65000915527344
+  pitch: 9.30000114440918
+lastlocation:
+  world: 0e5cc9e4-864d-47f9-b287-b44a4ba0a6a1
+  world-name: world
+  x: -185.5
+  y: -6850.455677779667
+  z: 123.5
+  yaw: 70.20000457763672
+  pitch: -66.0

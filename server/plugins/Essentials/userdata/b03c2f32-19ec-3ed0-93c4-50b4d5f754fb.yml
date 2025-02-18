@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675377675810
+  login: 1675377298943
+money: '0'
+last-account-name: wqdes
+lastlocation:
+  world: 0e5cc9e4-864d-47f9-b287-b44a4ba0a6a1
+  world-name: world
+  x: -185.5
+  y: -705.5202651727514
+  z: 124.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: c9db030f-8b4b-48f6-9526-5a4d53a79783
+  world-name: creative
+  x: 10.868803574350954
+  y: 67.0
+  z: 61.25428385252363
+  yaw: 148.050048828125
+  pitch: 67.79999542236328

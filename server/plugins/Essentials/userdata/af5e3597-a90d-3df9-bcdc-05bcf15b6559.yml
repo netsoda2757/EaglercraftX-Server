@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1674567781978
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674568180355
+  login: 1674567747833
+money: '0'
+last-account-name: raerae
+lastlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -32.26650763578403
+  y: 43.0
+  z: 3.1347837481248915
+  yaw: -76.0
+  pitch: 47.0
+logoutlocation:
+  world: c9db030f-8b4b-48f6-9526-5a4d53a79783
+  world-name: creative
+  x: 109.42867110189793
+  y: 68.0
+  z: -49.30000001192093
+  yaw: 281.6999816894531
+  pitch: 53.39999771118164

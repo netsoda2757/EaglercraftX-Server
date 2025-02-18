@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1675173082580
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1683294227517
+  login: 1683294214389
+money: '130.0'
+last-account-name: bigpickleman
+lastlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: 133.30000001192093
+  y: 25.0
+  z: -16.136579333970428
+  yaw: -37.34329605102539
+  pitch: -4.2625837326049805
+logoutlocation:
+  world: 0e5cc9e4-864d-47f9-b287-b44a4ba0a6a1
+  world-name: world
+  x: -186.0
+  y: 64.0
+  z: 126.0
+  yaw: 0.0
+  pitch: 0.0

@@ -1,0 +1,46 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1683290620772
+  login: 1683290476754
+money: '0'
+last-account-name: Robdajeb
+lastlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -9.027024900938612
+  y: 43.00133597911215
+  z: 13.09333792835977
+  yaw: -113.04275512695312
+  pitch: 6.922576904296875
+logoutlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -21.0
+  y: 45.0
+  z: 16.0
+  yaw: 0.0
+  pitch: 0.0
+mail:
+- legacy: false
+  read: true
+  message: hi
+  sender-name: FormedChicken67
+  sender-uuid: 8b7892db-8420-3be9-ad2e-79926d129c81
+  timestamp: 1683227586338
+  expire: 0

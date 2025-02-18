@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1683229828471
+  login: 1683229813991
+money: '0'
+last-account-name: Ice_spice
+logoutlocation:
+  world: c9db030f-8b4b-48f6-9526-5a4d53a79783
+  world-name: creative
+  x: 242.09293593675997
+  y: 106.47712628769438
+  z: -177.61238774657173
+  yaw: 23.05031394958496
+  pitch: 43.20001220703125
+lastlocation:
+  world: 0e5cc9e4-864d-47f9-b287-b44a4ba0a6a1
+  world-name: world
+  x: -183.6063126479236
+  y: -184.9375361807939
+  z: 121.84354603031156
+  yaw: -32.39967346191406
+  pitch: -89.55000305175781

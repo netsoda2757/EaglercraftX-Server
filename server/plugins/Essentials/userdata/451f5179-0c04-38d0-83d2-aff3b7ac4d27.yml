@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 104.243.32.99
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1739391208090
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1739823193159
+  login: 1739823080429
+money: '40.0'
+last-account-name: Yessir_
+lastlocation:
+  world: d9dfaaf8-90d1-42ea-8b82-a3982d67e059
+  world-name: world
+  x: 85.82401565831834
+  y: 66.0
+  z: 251.685168483665
+  yaw: -132.91969299316406
+  pitch: 37.3499641418457
+logoutlocation:
+  world: d9dfaaf8-90d1-42ea-8b82-a3982d67e059
+  world-name: world
+  x: 127.69991167355964
+  y: 32.0
+  z: 354.6352964069078
+  yaw: -219.83859252929688
+  pitch: 36.0
+homes:
+  home:
+    world: d9dfaaf8-90d1-42ea-8b82-a3982d67e059
+    world-name: world
+    x: 128.59323108596283
+    y: 46.0
+    z: -495.346522449886
+    yaw: -287.8558349609375
+    pitch: 84.89999389648438

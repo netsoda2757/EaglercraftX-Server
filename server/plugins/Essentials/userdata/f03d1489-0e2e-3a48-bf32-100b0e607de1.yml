@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1709220178903
+  login: 1709219838016
+money: '0'
+last-account-name: DarverDarvler405
+lastlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -34.94208716446236
+  y: 43.0
+  z: 24.32374252890081
+  yaw: 48.249996185302734
+  pitch: -2.250000476837158
+logoutlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -14.882741765887477
+  y: 42.0
+  z: 18.815195726445456
+  yaw: 104.8502197265625
+  pitch: -4.65000057220459

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675112780968
+  login: 1675112742352
+money: '0'
+last-account-name: biggcordegoatman
+lastlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -5.472729724702569
+  y: 53.0
+  z: 94.28608362085886
+  yaw: -211.6500244140625
+  pitch: -60.44999694824219
+logoutlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -30.492455967872697
+  y: 42.0
+  z: 21.681075969980363
+  yaw: 59.250003814697266
+  pitch: 0.9000000953674316

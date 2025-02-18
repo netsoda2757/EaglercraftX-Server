@@ -1,0 +1,48 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1675112002169
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675282765113
+  login: 1675282462387
+money: '0'
+last-account-name: PhantomX1
+lastlocation:
+  world: c9db030f-8b4b-48f6-9526-5a4d53a79783
+  world-name: creative
+  x: 2.715617943196463
+  y: 64.0
+  z: -2.981218674603231
+  yaw: -222.90000915527344
+  pitch: 31.95000457763672
+logoutlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -27.779454500073584
+  y: 42.0
+  z: 17.089142774435242
+  yaw: 86.85003662109375
+  pitch: -7.200000762939453
+nickname: PhantomX1
+homes:
+  home:
+    world: 4e228388-a923-4906-b86e-b835795ae05c
+    world-name: lobby_test
+    x: -40.488818930308526
+    y: 56.0
+    z: 16.441688297188314
+    yaw: 269.699951171875
+    pitch: 34.49999237060547

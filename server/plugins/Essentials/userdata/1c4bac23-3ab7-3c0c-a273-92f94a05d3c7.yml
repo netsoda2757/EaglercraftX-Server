@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674771820826
+  login: 1674771765755
+money: '0'
+last-account-name: nerjijienruei
+lastlocation:
+  world: 0e5cc9e4-864d-47f9-b287-b44a4ba0a6a1
+  world-name: world
+  x: -188.2614474053715
+  y: -2403.2997038281997
+  z: 123.24433301522694
+  yaw: 150.30001831054688
+  pitch: 30.000001907348633
+logoutlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -20.394323806681538
+  y: 45.0
+  z: 15.952187803348831
+  yaw: 318.60003662109375
+  pitch: 6.90000057220459

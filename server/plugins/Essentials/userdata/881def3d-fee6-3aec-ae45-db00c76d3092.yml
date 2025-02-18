@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1683204021400
+  login: 1683203732097
+money: '0'
+last-account-name: borderhopper
+logoutlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: 11.953915908739123
+  y: 38.0
+  z: 9.584585169329195
+  yaw: 320.121826171875
+  pitch: -79.19999694824219
+lastlocation:
+  world: 0e5cc9e4-864d-47f9-b287-b44a4ba0a6a1
+  world-name: world
+  x: -187.5
+  y: -5377.276986261315
+  z: 122.5
+  yaw: 10.500001907348633
+  pitch: -9.599989891052246

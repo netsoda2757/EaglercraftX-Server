@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1683137910504
+  login: 1683137879538
+money: '50.0'
+last-account-name: ppsucker
+lastlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -9.706688538542883
+  y: -283.5793317940071
+  z: 119.19892465154393
+  yaw: 285.4500427246094
+  pitch: -78.90001678466797
+logoutlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -20.85940920981744
+  y: 45.0
+  z: 16.14970971184885
+  yaw: -51.600006103515625
+  pitch: 87.60000610351562

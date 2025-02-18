@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674443872340
+  login: 1674440681833
+money: '0'
+last-account-name: Tard
+lastlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -33.67315383075561
+  y: 43.24918707874468
+  z: 24.108191515503467
+  yaw: -303.25006103515625
+  pitch: 13.749999046325684
+logoutlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: 69.8998908760347
+  y: 31.0
+  z: -53.51594559494523
+  yaw: 63.80029296875
+  pitch: -2.7000083923339844

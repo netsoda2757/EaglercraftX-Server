@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1675210353094
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675355084600
+  login: 1675354970387
+money: '20.0'
+last-account-name: jaquavian_______
+lastlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: 116.90044739493756
+  y: -136.02268144513374
+  z: 4.01358299349733
+  yaw: -253.7500457763672
+  pitch: 43.79999542236328
+logoutlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: 20.60076113203541
+  y: 38.0
+  z: -15.226778705544184
+  yaw: 171.75001525878906
+  pitch: 11.40000057220459
+homes:
+  home:
+    world: 4e228388-a923-4906-b86e-b835795ae05c
+    world-name: lobby_test
+    x: -17.411753444811094
+    y: 52.0
+    z: 38.487534644853454
+    yaw: -90.15935516357422
+    pitch: 1.7086526155471802

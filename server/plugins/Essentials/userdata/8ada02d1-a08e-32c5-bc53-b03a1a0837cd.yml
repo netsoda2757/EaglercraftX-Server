@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1711554792777
+  login: 1711554738758
+money: '0'
+last-account-name: Thenomnomcow
+lastlocation:
+  world: 9b42cb43-f409-4105-a24b-434f80fde442
+  world-name: survival
+  x: -11.023273752911471
+  y: 121.0
+  z: -24.346802643191566
+  yaw: 141.30001831054688
+  pitch: 3.6000003814697266
+logoutlocation:
+  world: 9b42cb43-f409-4105-a24b-434f80fde442
+  world-name: survival
+  x: 0.4117107768979321
+  y: 64.0
+  z: -6.3578249868791525
+  yaw: 108.30001831054688
+  pitch: 13.650001525878906

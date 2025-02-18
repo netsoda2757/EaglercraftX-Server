@@ -1,0 +1,50 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1675085827876
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675220151061
+  login: 1675219424041
+  kits:
+    tools: 1675084568487
+money: '48.0'
+last-account-name: SylveonRando
+logoutlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: 15.140831768118268
+  y: 43.0
+  z: -33.69999998807908
+  yaw: 11.3289794921875
+  pitch: 30.159055709838867
+lastlocation:
+  world: 9b42cb43-f409-4105-a24b-434f80fde442
+  world-name: survival
+  x: 121.30000001192091
+  y: 30.0
+  z: -108.61146424619079
+  yaw: 92.77440643310547
+  pitch: 57.436798095703125
+nickname: mikey
+homes:
+  home:
+    world: 4e228388-a923-4906-b86e-b835795ae05c
+    world-name: lobby_test
+    x: -14.641999679667434
+    y: 42.0
+    z: 12.314228595926846
+    yaw: 39.36004638671875
+    pitch: 13.199991226196289

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674443176735
+  login: 1674443129828
+money: '0'
+last-account-name: DeevDarvler250
+lastlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -33.65487523160182
+  y: 42.0
+  z: 25.550947367756372
+  yaw: 84.45004272460938
+  pitch: 0.6000000238418579
+logoutlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: 84.63034013481037
+  y: 31.0
+  z: -48.9257246374225
+  yaw: 224.10015869140625
+  pitch: -32.249996185302734

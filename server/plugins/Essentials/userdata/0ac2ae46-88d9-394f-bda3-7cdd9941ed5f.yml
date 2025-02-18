@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675346257758
+  login: 1675346206748
+money: '0'
+last-account-name: SpottedKit
+lastlocation:
+  world: 0e5cc9e4-864d-47f9-b287-b44a4ba0a6a1
+  world-name: world
+  x: -183.18151258131624
+  y: -288.09591703294853
+  z: 112.55891428661687
+  yaw: -289.800048828125
+  pitch: -76.20001220703125
+logoutlocation:
+  world: 0e5cc9e4-864d-47f9-b287-b44a4ba0a6a1
+  world-name: world
+  x: -187.88338227443452
+  y: 64.0
+  z: 124.62266751356472
+  yaw: -37.599998474121094
+  pitch: 11.749998092651367

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674507224358
+  login: 1674506979339
+money: '0'
+last-account-name: VoolVigg758
+lastlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -36.86871505804011
+  y: 43.0
+  z: 25.604230547587157
+  yaw: 285.60003662109375
+  pitch: 30.450002670288086
+logoutlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: 74.97786589661112
+  y: 31.0
+  z: -56.05352234086077
+  yaw: 196.9501953125
+  pitch: -33.749996185302734

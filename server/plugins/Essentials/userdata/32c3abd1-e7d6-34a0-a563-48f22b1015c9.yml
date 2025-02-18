@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675346452236
+  login: 1675345994757
+money: '0'
+last-account-name: YeeYigg343
+lastlocation:
+  world: c9db030f-8b4b-48f6-9526-5a4d53a79783
+  world-name: creative
+  x: -8.300000011920936
+  y: -382.47605954357556
+  z: -6.699999988079072
+  yaw: 96.47911071777344
+  pitch: 90.0
+logoutlocation:
+  world: c9db030f-8b4b-48f6-9526-5a4d53a79783
+  world-name: creative
+  x: -38.24703921346434
+  y: 70.0625
+  z: -51.69999998807907
+  yaw: -252.95001220703125
+  pitch: 32.09999465942383

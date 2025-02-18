@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.201.83.162
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716667199361
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716669868958
+  login: 1716667052465
+money: '0'
+last-account-name: NetSoda2757
+lastlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: 103.44745316289927
+  y: 74.87380504103568
+  z: -11.39372496879937
+  yaw: -123.15016174316406
+  pitch: 30.899993896484375
+logoutlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -43.08343881133477
+  y: 42.0
+  z: -244.93145107004105
+  yaw: 48.052734375
+  pitch: 32.400001525878906

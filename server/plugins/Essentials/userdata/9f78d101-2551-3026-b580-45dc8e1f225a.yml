@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674508984683
+  login: 1674508945011
+money: '0'
+last-account-name: Chuckles
+lastlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -34.824167483927
+  y: 42.78502770378924
+  z: 23.519483625303707
+  yaw: 34.500003814697266
+  pitch: 3.450000286102295
+logoutlocation:
+  world: 6bfe3f51-9781-4e3a-ad35-9f70352cc27e
+  world-name: bedwars
+  x: -1.5559189850451736
+  y: 89.48846857823766
+  z: 2.689851915196918
+  yaw: -73.25000762939453
+  pitch: 15.5

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675281758614
+  login: 1675281255515
+money: '0'
+last-account-name: survivor_mant27
+lastlocation:
+  world: c9db030f-8b4b-48f6-9526-5a4d53a79783
+  world-name: creative
+  x: -0.6893493950436271
+  y: -135.75602964277527
+  z: -4.699999988079071
+  yaw: -105.73674774169922
+  pitch: 31.04999542236328
+logoutlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: 65.77170090344589
+  y: 38.0
+  z: 9.833254550218605
+  yaw: 33.9500732421875
+  pitch: 90.0

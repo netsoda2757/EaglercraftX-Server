@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.26.137.47
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1707157541113
+  login: 1707157054495
+money: '0'
+last-account-name: Thenomnomcow4
+logoutlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: 116.02773885354785
+  y: 39.92922792711686
+  z: -22.358597744328378
+  yaw: 8.249995231628418
+  pitch: -1.7500008344650269

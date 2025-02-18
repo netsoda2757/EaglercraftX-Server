@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1682689498646
+  login: 1682689199833
+money: '0'
+last-account-name: youngboy
+lastlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: 169.69999998807907
+  y: -205.83090995211717
+  z: 122.7382337828327
+  yaw: 268.050048828125
+  pitch: -90.0
+logoutlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: 174.4297872200189
+  y: 61.0
+  z: 122.39119376780141
+  yaw: -168.45004272460938
+  pitch: 41.84999465942383

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1708695967963
+  login: 1708695901243
+money: '0'
+last-account-name: Sheesh_Aneesh
+lastlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: 191.78684487655806
+  y: 68.87228028911993
+  z: 24.73979272452007
+  yaw: -16.950002670288086
+  pitch: 35.70001220703125
+logoutlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: 103.00310343957233
+  y: 43.0
+  z: -2.917902809769211
+  yaw: -108.55001831054688
+  pitch: 25.20000648498535

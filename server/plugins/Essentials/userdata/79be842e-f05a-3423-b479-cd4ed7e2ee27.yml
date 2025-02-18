@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1683218882996
+  login: 1683218825023
+money: '30.0'
+logoutlocation:
+  world: 9b42cb43-f409-4105-a24b-434f80fde442
+  world-name: survival
+  x: -9.0
+  y: 123.0
+  z: -2.0
+  yaw: 0.0
+  pitch: 0.0
+last-account-name: 07_in_chat
+lastlocation:
+  world: 9b42cb43-f409-4105-a24b-434f80fde442
+  world-name: survival
+  x: -11.447759559052862
+  y: 120.78502770378924
+  z: -23.96349288704839
+  yaw: 175.17453002929688
+  pitch: 29.92469024658203

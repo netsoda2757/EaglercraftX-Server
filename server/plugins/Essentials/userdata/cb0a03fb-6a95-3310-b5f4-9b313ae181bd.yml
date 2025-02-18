@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1709311404526
+  login: 1709311300632
+money: '0'
+last-account-name: Noah_Logans_bro
+lastlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -34.69999998807907
+  y: 42.0
+  z: 25.22883759933013
+  yaw: 75.989013671875
+  pitch: -8.999992370605469
+logoutlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -34.10962207769306
+  y: 42.0
+  z: 23.180704759068718
+  yaw: 243.00003051757812
+  pitch: -5.100000381469727

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 104.243.32.99
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1727363891587
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1739825678001
+  login: 1739825546265
+money: '25.0'
+last-account-name: Thenomnomcow2
+logoutlocation:
+  world: d9dfaaf8-90d1-42ea-8b82-a3982d67e059
+  world-name: world
+  x: 126.36403831840306
+  y: 65.0
+  z: 316.34686904114784
+  yaw: -175.64984130859375
+  pitch: 13.050004005432129
+lastlocation:
+  world: daa5fd7e-54ba-4726-aec6-965e066e7a2b
+  world-name: world
+  x: 122.92655827291114
+  y: 65.0
+  z: 134.76918103975677
+  yaw: -221.2501220703125
+  pitch: -8.400010108947754

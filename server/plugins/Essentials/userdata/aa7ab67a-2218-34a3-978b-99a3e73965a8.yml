@@ -1,0 +1,46 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: true
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1675300979793
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1682715388218
+  login: 1682715380507
+money: '141160.0'
+last-account-name: me123
+lastlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -35.5291287678065
+  y: 43.0
+  z: 25.4365464679409
+  yaw: -284.7000732421875
+  pitch: 14.70000171661377
+logoutlocation:
+  world: e6054413-10b4-4339-8bc1-d777e37bb478
+  world-name: shops
+  x: -23.220600449035423
+  y: 39.34701225612321
+  z: 1.6364820378364753
+  yaw: 211.75009155273438
+  pitch: 42.400001525878906
+mail:
+- legacy: false
+  read: true
+  message: NOM NOM NOM
+  sender-name: FormedChicken67
+  sender-uuid: 8b7892db-8420-3be9-ad2e-79926d129c81
+  timestamp: 1673994888954
+  expire: 0

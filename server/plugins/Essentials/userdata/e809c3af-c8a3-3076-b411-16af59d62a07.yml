@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1682705000802
+  login: 1682704955007
+money: '0'
+last-account-name: phin_sux
+lastlocation:
+  world: 0e5cc9e4-864d-47f9-b287-b44a4ba0a6a1
+  world-name: world
+  x: -182.5
+  y: -1525.3095691528392
+  z: 130.5
+  yaw: -9.750000953674316
+  pitch: 31.500001907348633
+logoutlocation:
+  world: 6431173f-4ae0-4934-a57d-b94692ff7df6
+  world-name: do_whatever
+  x: -1.0
+  y: 155.0
+  z: -1.0
+  yaw: -46.0
+  pitch: 4.0

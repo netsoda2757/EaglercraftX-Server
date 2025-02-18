@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1674755764520
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675371298171
+  login: 1675370387978
+  kits:
+    tools: 1675371053118
+money: '0'
+last-account-name: jeb
+lastlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -34.699999988079064
+  y: 42.0
+  z: 24.682752958937677
+  yaw: 68.58529663085938
+  pitch: -2.6372902393341064
+homes:
+  home:
+    world: 4e228388-a923-4906-b86e-b835795ae05c
+    world-name: lobby_test
+    x: -19.211541531940146
+    y: 45.0
+    z: 17.13703047678587
+    yaw: -32.250003814697266
+    pitch: 18.750001907348633
+logoutlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: 75.29195588596725
+  y: 46.5
+  z: 20.05192153376821
+  yaw: 268.42523193359375
+  pitch: 1.9472887516021729

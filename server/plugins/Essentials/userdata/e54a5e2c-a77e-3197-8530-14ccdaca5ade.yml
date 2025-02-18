@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1683120440726
+  login: 1683120260057
+money: '0'
+last-account-name: YeeishDeev445
+logoutlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -26.01133700079602
+  y: 42.0
+  z: 12.598979793875799
+  yaw: 189.35000610351562
+  pitch: 10.649992942810059
+lastlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: 5.606755739772317
+  y: 69.0
+  z: 379.74107318237674
+  yaw: 45.60003662109375
+  pitch: 21.74999237060547

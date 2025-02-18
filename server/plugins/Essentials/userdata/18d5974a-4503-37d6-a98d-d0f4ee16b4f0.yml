@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1683230000813
+  login: 1683229976644
+money: '0'
+last-account-name: TubbyBird24
+logoutlocation:
+  world: c9db030f-8b4b-48f6-9526-5a4d53a79783
+  world-name: creative
+  x: 228.52444028053463
+  y: 73.00860407732027
+  z: -103.69999998807907
+  yaw: 101.10002136230469
+  pitch: 12.449993133544922
+lastlocation:
+  world: adf44d6a-9843-4066-92cd-1dd3694d5b22
+  world-name: parkour
+  x: 17.082003706677398
+  y: -208.16279855534788
+  z: 0.7523473640196185
+  yaw: -48.20000076293945
+  pitch: 53.099998474121094

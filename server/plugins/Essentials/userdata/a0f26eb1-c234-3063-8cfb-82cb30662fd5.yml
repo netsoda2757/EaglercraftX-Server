@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674584322859
+  login: 1674583843320
+money: '0'
+last-account-name: IIOJ
+lastlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -34.69999998807907
+  y: 42.0
+  z: 25.174205406418302
+  yaw: 80.55001068115234
+  pitch: -22.500001907348633
+logoutlocation:
+  world: c9db030f-8b4b-48f6-9526-5a4d53a79783
+  world-name: creative
+  x: 240.1980687671414
+  y: 79.50376231786112
+  z: -266.14470024916534
+  yaw: -27.15008544921875
+  pitch: 30.300010681152344

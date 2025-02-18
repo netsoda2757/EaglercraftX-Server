@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1682789102388
+  login: 1682786979028
+money: '0'
+last-account-name: YeegYee194
+lastlocation:
+  world: 9b42cb43-f409-4105-a24b-434f80fde442
+  world-name: survival
+  x: -11.2812311296042
+  y: 121.0
+  z: -24.749038065914423
+  yaw: -192.5546875
+  pitch: 20.3046875
+logoutlocation:
+  world: 9b42cb43-f409-4105-a24b-434f80fde442
+  world-name: survival
+  x: -125.87432228496657
+  y: 64.0
+  z: 11.438705384243892
+  yaw: -36.921875
+  pitch: 23.9296875

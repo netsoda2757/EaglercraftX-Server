@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1683118752599
+  login: 1683118762136
+money: '0'
+last-account-name: Herobrine
+logoutlocation:
+  world: 6bfe3f51-9781-4e3a-ad35-9f70352cc27e
+  world-name: bedwars
+  x: -45.495353112450054
+  y: 65.0
+  z: 23.963603756500536
+  yaw: 266.9000244140625
+  pitch: -1.6500089168548584
+lastlocation:
+  world: 6bfe3f51-9781-4e3a-ad35-9f70352cc27e
+  world-name: bedwars
+  x: 89.08339568389727
+  y: -200.66993145806694
+  z: -90.48978271497049
+  yaw: -295.99298095703125
+  pitch: -41.4000129699707

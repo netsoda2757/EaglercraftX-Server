@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 104.243.32.99
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1728672353469
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1739825675201
+  login: 1739824436030
+money: '70.0'
+last-account-name: Pigman
+logoutlocation:
+  world: d9dfaaf8-90d1-42ea-8b82-a3982d67e059
+  world-name: world
+  x: 107.82336640884652
+  y: 66.0
+  z: 267.8550724145437
+  yaw: -249.96209716796875
+  pitch: 4.751446723937988
+lastlocation:
+  world: daa5fd7e-54ba-4726-aec6-965e066e7a2b
+  world-name: world
+  x: 285.30583467599337
+  y: 5.0
+  z: 194.3967220719868
+  yaw: -269.70611572265625
+  pitch: 23.399993896484375
+homes:
+  home:
+    world: d9dfaaf8-90d1-42ea-8b82-a3982d67e059
+    world-name: world
+    x: 117.70101452277272
+    y: 59.0
+    z: 128.5927835762011
+    yaw: -352.3558349609375
+    pitch: 27.000011444091797

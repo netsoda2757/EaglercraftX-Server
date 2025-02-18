@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674510086016
+  login: 1674508322615
+money: '0'
+last-account-name: Mr_Chad
+lastlocation:
+  world: 6bfe3f51-9781-4e3a-ad35-9f70352cc27e
+  world-name: bedwars
+  x: -323.30810973146345
+  y: -64.01903315390642
+  z: 21.867846657492013
+  yaw: 206.55010986328125
+  pitch: 9.749992370605469
+logoutlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: 69.02966846784015
+  y: 31.0
+  z: -63.05378522029394
+  yaw: 130.90005493164062
+  pitch: 55.900001525878906

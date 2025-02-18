@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1682625231574
+  login: 1682625050227
+money: '45.0'
+last-account-name: Jude
+lastlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: 61.88975549426699
+  y: -192.41052280262858
+  z: 2.4250111443559024
+  yaw: 277.8001708984375
+  pitch: -88.05000305175781
+logoutlocation:
+  world: c9db030f-8b4b-48f6-9526-5a4d53a79783
+  world-name: creative
+  x: -92.46154216439356
+  y: 63.0
+  z: -14.147178987107388
+  yaw: 27.150146484375
+  pitch: 44.09999465942383

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1673964068462
+  login: 1673963231816
+money: '35.0'
+last-account-name: _Rae_
+logoutlocation:
+  world: 9b42cb43-f409-4105-a24b-434f80fde442
+  world-name: survival
+  x: 30.303858350184683
+  y: 60.0
+  z: 4.0637089567118005
+  yaw: 280.35003662109375
+  pitch: 50.09999465942383
+lastlocation:
+  world: 0e5cc9e4-864d-47f9-b287-b44a4ba0a6a1
+  world-name: world
+  x: -187.05887590954114
+  y: -25719.54558818604
+  z: 130.33773323676613
+  yaw: -144.60003662109375
+  pitch: 66.14999389648438

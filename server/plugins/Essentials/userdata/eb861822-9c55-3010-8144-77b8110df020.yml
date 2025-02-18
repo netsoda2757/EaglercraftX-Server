@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675360334752
+  login: 1675360222222
+money: '0'
+last-account-name: john_fortnight
+lastlocation:
+  world: 9b42cb43-f409-4105-a24b-434f80fde442
+  world-name: survival
+  x: -38.48756348584523
+  y: 64.10408037809304
+  z: -38.06122998345606
+  yaw: 29.2501220703125
+  pitch: 27.94999885559082
+logoutlocation:
+  world: 0e5cc9e4-864d-47f9-b287-b44a4ba0a6a1
+  world-name: world
+  x: -186.0
+  y: 64.0
+  z: 126.0
+  yaw: 0.0
+  pitch: 0.0

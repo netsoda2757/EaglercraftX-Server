@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1682972485781
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1683227597733
+  login: 1683227569787
+money: '1943.0'
+last-account-name: FormedChicken67
+logoutlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -11.676812011049785
+  y: 47.671282366867636
+  z: 21.84780686958565
+  yaw: -139.64999389648438
+  pitch: 18.34999656677246
+lastlocation:
+  world: e6054413-10b4-4339-8bc1-d777e37bb478
+  world-name: shops
+  x: -31.685060136773313
+  y: 31.5
+  z: -17.26213001550057
+  yaw: -41.550018310546875
+  pitch: 62.400001525878906
+homes:
+  home:
+    world: 6bfe3f51-9781-4e3a-ad35-9f70352cc27e
+    world-name: bedwars
+    x: 3.300000011920929
+    y: 65.0
+    z: 52.002046132390326
+    yaw: 280.949951171875
+    pitch: -7.200008392333984
+mail:
+- legacy: false
+  read: false
+  message: helo der am minecraft gaming
+  sender-name: Robdajeb
+  sender-uuid: 68d881b9-7dc8-3961-8a6d-88bec836a13e
+  timestamp: 1683227775386
+  expire: 0

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1682606128667
+  login: 1682605970025
+money: '0'
+last-account-name: ViggEagl470
+logoutlocation:
+  world: 0e5cc9e4-864d-47f9-b287-b44a4ba0a6a1
+  world-name: world
+  x: -177.03828798544612
+  y: 64.0
+  z: 99.34524515672511
+  yaw: 257.25006103515625
+  pitch: 15.900001525878906
+lastlocation:
+  world: 0e5cc9e4-864d-47f9-b287-b44a4ba0a6a1
+  world-name: world
+  x: -184.46306793493133
+  y: -14030.050215022391
+  z: 130.39575102890737
+  yaw: -157.50001525878906
+  pitch: 81.30001068115234

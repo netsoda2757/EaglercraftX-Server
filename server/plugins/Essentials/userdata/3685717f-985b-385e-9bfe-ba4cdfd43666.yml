@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1675089885078
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675348950359
+  login: 1675348421732
+money: '0'
+last-account-name: Dream_IG
+lastlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -28.884757548265053
+  y: 42.0
+  z: 28.28716270401149
+  yaw: 30.9000244140625
+  pitch: -2.4000003337860107
+logoutlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: 95.5082606058242
+  y: 44.0
+  z: 13.264561792603955
+  yaw: 177.54995727539062
+  pitch: 34.79999542236328

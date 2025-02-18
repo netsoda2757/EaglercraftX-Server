@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675276183548
+  login: 1675275884454
+money: '0'
+last-account-name: evade_darzy
+lastlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -34.23318642505783
+  y: 42.0
+  z: 24.002431480954332
+  yaw: -300.15008544921875
+  pitch: 6.15000057220459
+logoutlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: 63.34261854944832
+  y: 31.0
+  z: -58.69999998807907
+  yaw: -202.95005798339844
+  pitch: -4.200000762939453

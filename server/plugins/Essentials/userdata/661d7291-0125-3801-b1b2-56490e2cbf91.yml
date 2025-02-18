@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675281694487
+  login: 1675281369294
+money: '0'
+last-account-name: win
+lastlocation:
+  world: 0e5cc9e4-864d-47f9-b287-b44a4ba0a6a1
+  world-name: world
+  x: -185.5
+  y: -1098.4182470776802
+  z: 126.5
+  yaw: 160.3500213623047
+  pitch: 62.69999694824219
+logoutlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -21.863520325012924
+  y: 42.0
+  z: 11.241324478175226
+  yaw: -43.900020599365234
+  pitch: 24.15001106262207

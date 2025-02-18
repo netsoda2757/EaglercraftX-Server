@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.26.137.47
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1707327612736
+  login: 1707326594846
+money: '0'
+last-account-name: bomdakasnazwagoN
+logoutlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: 106.27157806184678
+  y: 38.0
+  z: 15.269663757741512
+  yaw: 265.65008544921875
+  pitch: 2.850008249282837
+past-usernames:
+- bomdakasnazwagon
+lastlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: 22.326148098888403
+  y: 38.0
+  z: 9.708117910511426
+  yaw: -88.050048828125
+  pitch: 27.60000228881836

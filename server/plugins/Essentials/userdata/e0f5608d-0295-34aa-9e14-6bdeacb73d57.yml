@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1683132035849
+  login: 1683131793638
+money: '0'
+last-account-name: DarverDarvler706
+logoutlocation:
+  world: adf44d6a-9843-4066-92cd-1dd3694d5b22
+  world-name: parkour
+  x: 6.974361755803308
+  y: 67.0
+  z: 0.1018946500807489
+  yaw: -89.30000305175781
+  pitch: 26.399993896484375
+lastlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -20.20342353968175
+  y: 42.0
+  z: 11.227366773932285
+  yaw: -241.20001220703125
+  pitch: 6.449992656707764

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1683038252662
+  login: 1683036575128
+money: '0'
+last-account-name: Cotten
+lastlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: 99.45248591224035
+  y: -190.869822265625
+  z: 7.262261106703264
+  yaw: 153.078125
+  pitch: -90.0
+logoutlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: 92.22143570179823
+  y: 42.5
+  z: 20.054369416422876
+  yaw: 36.9296875
+  pitch: 90.0

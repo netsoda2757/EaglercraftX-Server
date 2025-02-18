@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675198111405
+  login: 1675198081690
+money: '0'
+last-account-name: BobbyMicfly2230
+lastlocation:
+  world: 0e5cc9e4-864d-47f9-b287-b44a4ba0a6a1
+  world-name: world
+  x: -182.5
+  y: -1882.1011348874474
+  z: 127.5
+  yaw: -13.500000953674316
+  pitch: -41.250003814697266
+logoutlocation:
+  world: 9b42cb43-f409-4105-a24b-434f80fde442
+  world-name: survival
+  x: -90.80841302082949
+  y: 66.0
+  z: -80.63072692030751
+  yaw: -329.51055908203125
+  pitch: 6.253445148468018

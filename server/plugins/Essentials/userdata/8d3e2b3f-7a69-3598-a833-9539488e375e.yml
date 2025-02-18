@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1674827565260
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674827653820
+  login: 1674827441872
+money: '0'
+last-account-name: _Barney_
+lastlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -40.5
+  y: 56.0
+  z: 26.5
+  yaw: 179.84512329101562
+  pitch: 26.548492431640625
+homes:
+  home:
+    world: 4e228388-a923-4906-b86e-b835795ae05c
+    world-name: lobby_test
+    x: -40.5
+    y: 56.0
+    z: 26.5
+    yaw: 179.84532165527344
+    pitch: 26.548555374145508
+logoutlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -40.5
+  y: 56.0
+  z: 26.5
+  yaw: 178.48837280273438
+  pitch: 28.196653366088867

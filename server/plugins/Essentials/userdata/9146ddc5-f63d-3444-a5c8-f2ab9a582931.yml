@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674757100887
+  login: 1674757012563
+money: '0'
+last-account-name: i_hate_mason_w
+lastlocation:
+  world: 0e5cc9e4-864d-47f9-b287-b44a4ba0a6a1
+  world-name: world
+  x: -182.5
+  y: -1627.1720784040683
+  z: 123.5
+  yaw: 19.05000114440918
+  pitch: -22.80000114440918
+logoutlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -27.981985565546132
+  y: 42.0
+  z: 6.126861458480916
+  yaw: 106.20004272460938
+  pitch: -74.69999694824219

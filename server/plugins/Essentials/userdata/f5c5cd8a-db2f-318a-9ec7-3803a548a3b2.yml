@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674919285655
+  login: 1674918873734
+money: '0'
+last-account-name: propolles_911
+lastlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -35.78593097339294
+  y: 43.0
+  z: 25.40110603430049
+  yaw: -296.40008544921875
+  pitch: 18.149993896484375
+logoutlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: 64.18296953889688
+  y: 31.5
+  z: -60.045131446609346
+  yaw: -250.9500732421875
+  pitch: 10.649993896484375

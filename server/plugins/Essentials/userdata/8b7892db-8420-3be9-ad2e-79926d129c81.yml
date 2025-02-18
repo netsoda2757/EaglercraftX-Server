@@ -1,0 +1,79 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 104.243.32.99
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1739377524052
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1739822584608
+  login: 1739822493114
+money: '2078.0'
+last-account-name: FormedChicken67
+logoutlocation:
+  world: d9dfaaf8-90d1-42ea-8b82-a3982d67e059
+  world-name: world
+  x: 141.69999998807907
+  y: 58.0
+  z: 313.65310462072074
+  yaw: -264.24755859375
+  pitch: 52.050010681152344
+lastlocation:
+  world: d9dfaaf8-90d1-42ea-8b82-a3982d67e059
+  world-name: world
+  x: 156.5
+  y: 77.0
+  z: 256.5
+  yaw: 2.5500001907348633
+  pitch: 75.15000915527344
+homes:
+  home:
+    world: d9dfaaf8-90d1-42ea-8b82-a3982d67e059
+    world-name: world
+    x: 130.36800579278508
+    y: 46.0
+    z: -496.3339420120585
+    yaw: 54.929779052734375
+    pitch: 30.149993896484375
+  oldbase:
+    world: d9dfaaf8-90d1-42ea-8b82-a3982d67e059
+    world-name: world
+    x: 123.54369283805345
+    y: 66.0
+    z: 124.00553264357711
+    yaw: 5.4000244140625
+    pitch: 31.200002670288086
+  mobs:
+    world: d9dfaaf8-90d1-42ea-8b82-a3982d67e059
+    world-name: world
+    x: 338.4623991105627
+    y: 82.0
+    z: 92.46645240792421
+    yaw: 0.45007258653640747
+    pitch: 30.899993896484375
+  surface:
+    world: d9dfaaf8-90d1-42ea-8b82-a3982d67e059
+    world-name: world
+    x: 125.36922574839772
+    y: 64.0
+    z: -495.6255460580265
+    yaw: 264.7799072265625
+    pitch: 69.1500015258789
+  village:
+    world: d9dfaaf8-90d1-42ea-8b82-a3982d67e059
+    world-name: world
+    x: 569.1261106852046
+    y: 69.0
+    z: -433.78566593425865
+    yaw: -284.52008056640625
+    pitch: 11.099992752075195

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674511018601
+  login: 1674510936311
+money: '0'
+last-account-name: Cordethhhhhegoat
+lastlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -34.03304157567145
+  y: 42.0
+  z: 24.94553570841915
+  yaw: 83.50001525878906
+  pitch: 2.3499984741210938
+logoutlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: 67.6765740519075
+  y: 31.0
+  z: -63.09356427173654
+  yaw: 168.4000244140625
+  pitch: -29.600004196166992

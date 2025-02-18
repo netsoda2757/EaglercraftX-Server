@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674513777823
+  login: 1674513647725
+money: '0'
+last-account-name: donkerdookie
+lastlocation:
+  world: 0e5cc9e4-864d-47f9-b287-b44a4ba0a6a1
+  world-name: world
+  x: -184.5
+  y: -2121.5496666950125
+  z: 126.5
+  yaw: 118.20001220703125
+  pitch: 16.80000114440918
+logoutlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -21.194994867604755
+  y: 45.0
+  z: 15.741468566575156
+  yaw: -294.45001220703125
+  pitch: 17.250001907348633

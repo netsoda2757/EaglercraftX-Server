@@ -1,0 +1,46 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1675278135808
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1683293855378
+  login: 1683293840477
+money: '10.0'
+last-account-name: A_RANDOM_PERSON
+logoutlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: 136.0053590843808
+  y: 157.8740673043563
+  z: 4.915728650795742
+  yaw: 90.6640625
+  pitch: 28.46875
+mail:
+- legacy: false
+  read: true
+  message: HI THIS IS A NOM NOM COW!
+  sender-name: TempBan
+  sender-uuid: b5d9eed9-4264-3b62-a5ae-e91232aae67a
+  timestamp: 1673913368507
+  expire: 0
+lastlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: 202.76897368944535
+  y: -109.57950257417855
+  z: 11.141163154093842
+  yaw: -242.65003967285156
+  pitch: 3.6500020027160645

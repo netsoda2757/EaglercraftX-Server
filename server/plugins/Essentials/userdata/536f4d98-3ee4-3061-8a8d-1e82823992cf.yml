@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1676738195019
+  login: 1676738041628
+money: '0'
+last-account-name: ViggYeer973
+lastlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -29.90994532839063
+  y: 43.166109260938214
+  z: 28.864883081717934
+  yaw: 24.750001907348633
+  pitch: 7.500000476837158
+logoutlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: 234.0466732975125
+  y: -93.5581955211307
+  z: 120.85811132473677
+  yaw: -125.55001068115234
+  pitch: -89.69999694824219

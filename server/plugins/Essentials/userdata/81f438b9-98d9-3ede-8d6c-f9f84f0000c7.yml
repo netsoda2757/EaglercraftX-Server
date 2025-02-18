@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675350248648
+  login: 1675349943569
+money: '0'
+last-account-name: Bigfish321
+lastlocation:
+  world: 9b42cb43-f409-4105-a24b-434f80fde442
+  world-name: survival
+  x: -47.545048195184194
+  y: 66.0
+  z: 2.2353812874958776
+  yaw: 1.500091552734375
+  pitch: 23.699993133544922
+logoutlocation:
+  world: 6431173f-4ae0-4934-a57d-b94692ff7df6
+  world-name: do_whatever
+  x: 32.57751268841858
+  y: 63.0
+  z: 3.8729624609391493
+  yaw: 305.5500183105469
+  pitch: 27.449995040893555

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675180075922
+  login: 1675180034860
+money: '0'
+last-account-name: EddyVR_count
+logoutlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -21.11249299051249
+  y: 42.0
+  z: 20.622710768668735
+  yaw: 0.15000002086162567
+  pitch: 33.60000228881836
+lastlocation:
+  world: 0e5cc9e4-864d-47f9-b287-b44a4ba0a6a1
+  world-name: world
+  x: -183.5
+  y: -849.9278577042892
+  z: 123.5
+  yaw: 5.700000286102295
+  pitch: 6.750000476837158

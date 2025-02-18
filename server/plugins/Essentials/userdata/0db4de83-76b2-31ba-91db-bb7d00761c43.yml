@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674574693369
+  login: 1674574618460
+money: '0'
+last-account-name: E__
+logoutlocation:
+  world: c9db030f-8b4b-48f6-9526-5a4d53a79783
+  world-name: creative
+  x: -74.37319562933314
+  y: 62.94264315626371
+  z: 22.881513067174314
+  yaw: 179.4499969482422
+  pitch: -23.45000457763672
+lastlocation:
+  world: 9b42cb43-f409-4105-a24b-434f80fde442
+  world-name: survival
+  x: -156.77753993446026
+  y: 77.0
+  z: 79.56917606548596
+  yaw: 329.10003662109375
+  pitch: 18.149993896484375

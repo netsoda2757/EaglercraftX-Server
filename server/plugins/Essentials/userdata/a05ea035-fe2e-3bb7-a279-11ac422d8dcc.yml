@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1729091222959
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1729094492349
+  login: 1729094385472
+money: '0'
+last-account-name: ZAGROTCRUSHA4
+logoutlocation:
+  world: daa5fd7e-54ba-4726-aec6-965e066e7a2b
+  world-name: world
+  x: -90.46328051242818
+  y: 11.0
+  z: 186.6471377848842
+  yaw: 18.31031036376953
+  pitch: 43.96516418457031
+lastlocation:
+  world: daa5fd7e-54ba-4726-aec6-965e066e7a2b
+  world-name: world
+  x: 276.0844569319902
+  y: 10.0
+  z: 527.9667061756496
+  yaw: 91.10157775878906
+  pitch: 18.899993896484375
+homes:
+  home:
+    world: daa5fd7e-54ba-4726-aec6-965e066e7a2b
+    world-name: world
+    x: -19.52606890172219
+    y: 77.0
+    z: 90.26670531814845
+    yaw: -164.7984161376953
+    pitch: 20.700010299682617

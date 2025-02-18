@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675102981511
+  login: 1675102908237
+money: '0'
+last-account-name: big_black_man69
+lastlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -34.701932832372854
+  y: 43.0
+  z: 26.416038931290842
+  yaw: 118.95001220703125
+  pitch: -4.842877956434677E-7
+logoutlocation:
+  world: 0e5cc9e4-864d-47f9-b287-b44a4ba0a6a1
+  world-name: world
+  x: -183.33056093360946
+  y: 64.0
+  z: 128.69999998807907
+  yaw: -231.6000213623047
+  pitch: 17.54999351501465

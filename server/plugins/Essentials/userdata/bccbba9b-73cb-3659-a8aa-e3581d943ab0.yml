@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675172796558
+  login: 1675172707547
+money: '35.0'
+last-account-name: Griffinboi420
+logoutlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -20.606442691907738
+  y: 45.0
+  z: 16.949033358396814
+  yaw: 4.350000381469727
+  pitch: 53.999996185302734
+lastlocation:
+  world: 9b42cb43-f409-4105-a24b-434f80fde442
+  world-name: survival
+  x: -31.866666576575057
+  y: 68.0
+  z: 42.77420118183258
+  yaw: 158.25001525878906
+  pitch: -90.0

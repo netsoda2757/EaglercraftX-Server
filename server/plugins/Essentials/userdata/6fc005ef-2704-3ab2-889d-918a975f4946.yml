@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1675348663481
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675368950227
+  login: 1675368550894
+  kits:
+    tools: 1674752288101
+money: '0'
+last-account-name: Hagridoo7
+lastlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -30.44085607787982
+  y: 43.24918707874468
+  z: 28.058427007945966
+  yaw: 4.0020751953125
+  pitch: 34.5000114440918
+homes:
+  home:
+    world: 4e228388-a923-4906-b86e-b835795ae05c
+    world-name: lobby_test
+    x: -36.27907164610156
+    y: 52.0
+    z: 38.637656405197376
+    yaw: 190.04994201660156
+    pitch: 8.249991416931152
+logoutlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -18.558209118537086
+  y: 42.0
+  z: 22.943769643919563
+  yaw: -319.65008544921875
+  pitch: 11.699993133544922

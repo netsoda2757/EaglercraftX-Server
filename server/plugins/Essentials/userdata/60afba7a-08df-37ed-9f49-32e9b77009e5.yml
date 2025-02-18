@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674792311249
+  login: 1674791865936
+money: '0'
+last-account-name: herobrine_
+lastlocation:
+  world: 9b42cb43-f409-4105-a24b-434f80fde442
+  world-name: survival
+  x: 129.30000001192093
+  y: 56.0
+  z: -112.69999998807907
+  yaw: -41.70000457763672
+  pitch: 2.849992275238037
+logoutlocation:
+  world: 9b42cb43-f409-4105-a24b-434f80fde442
+  world-name: survival
+  x: 129.30000001192093
+  y: 56.0
+  z: -112.69999998807907
+  yaw: -41.70000457763672
+  pitch: 2.849992275238037

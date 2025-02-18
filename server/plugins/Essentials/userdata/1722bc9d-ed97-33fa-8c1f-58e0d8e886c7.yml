@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: true
+ip-address: 66.23.193.126
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1738868999897
+  login: 1738868974812
+money: '35.0'
+last-account-name: FormedChicken672
+logoutlocation:
+  world: d9dfaaf8-90d1-42ea-8b82-a3982d67e059
+  world-name: world
+  x: 137.96050131498353
+  y: 58.0
+  z: 323.28188860890236
+  yaw: -18.14999771118164
+  pitch: 14.850001335144043
+lastlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: 98.1139230119874
+  y: 43.0
+  z: -8.175542348042669
+  yaw: 234.15000915527344
+  pitch: 19.900001525878906
+jail: formedchicken67

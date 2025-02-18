@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675117773745
+  login: 1675117653310
+money: '0'
+last-account-name: TNT
+logoutlocation:
+  world: 0e5cc9e4-864d-47f9-b287-b44a4ba0a6a1
+  world-name: world
+  x: -185.02626999699265
+  y: 64.0
+  z: 126.26698542435385
+  yaw: 256.3500671386719
+  pitch: -4.650008201599121
+lastlocation:
+  world: 4e228388-a923-4906-b86e-b835795ae05c
+  world-name: lobby_test
+  x: -31.240046761997547
+  y: 42.0
+  z: 27.825030908961335
+  yaw: 342.7500305175781
+  pitch: -8.849992752075195

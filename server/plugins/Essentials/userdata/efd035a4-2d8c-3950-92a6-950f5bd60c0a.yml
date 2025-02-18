@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727442597031
+  login: 1727442586045
+money: '0'
+last-account-name: FortniteSigma9
+logoutlocation:
+  world: daa5fd7e-54ba-4726-aec6-965e066e7a2b
+  world-name: world
+  x: 72.0728441914856
+  y: 84.0
+  z: 187.69999998807907
+  yaw: 70.95000457763672
+  pitch: 30.60000228881836
