@@ -30,8 +30,8 @@ log_pings: true
 connection_throttle_limit: 3
 server_connect_timeout: 5000
 timeout: 30000
+stats: c7072241-ed91-4899-a805-be504ee7d140
 player_limit: -1
-prevent_proxy_connections: false
 ip_forward: true
 groups:
   md_5:
@@ -39,16 +39,12 @@ groups:
 remote_ping_timeout: 5000
 connection_throttle: 4000
 log_commands: false
-stats: c7072241-ed91-4899-a805-be504ee7d140
+prevent_proxy_connections: false
 online_mode: false
 forge_support: true
 disabled_commands:
 - disabledcommandhere
 servers:
-  lobby:
-    motd: '&1Just another Waterfall - Forced Host'
-    address: localhost:25566
-    restricted: false
   survival:
     motd: '&1Just another Waterfall - Forced Host'
     address: localhost:25545
