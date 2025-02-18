@@ -1,212 +1,66 @@
-[16:20:22] [main/INFO]: Using mbed TLS based native cipher.
-[16:20:22] [main/INFO]: Using zlib based native compressor.
-[16:20:22] [main/INFO]: Enabled Waterfall version git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562
-[16:20:22] [main/INFO]: Not on Windows, attempting to use enhanced EpollEventLoop
-[16:20:23] [main/INFO]: Epoll is working, utilising it!
-[16:20:23] [main/INFO]: Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
-[16:20:23] [main/INFO]: Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
-[16:20:23] [main/INFO]: Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
-[16:20:23] [main/INFO]: Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
-[16:20:23] [main/INFO]: Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
-[16:20:23] [main/INFO]: Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
-[16:20:23] [main/INFO]: Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
-[16:20:23] [main/INFO]: Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
-[16:20:23] [main/INFO]: Loaded plugin AuthMeBungee version 2.2.0-beta1 by AuthMeTeam
-[16:20:23] [main/INFO]: Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
-[16:20:23] [main/INFO]: Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
-[16:20:23] [main/INFO]: Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
-[16:20:23] [main/INFO]: Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
-[16:20:23] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
-[16:20:23] [main/WARN]: :>  
-[16:20:23] [main/WARN]: :>      EAGLERCRAFTXBUNGEE WARNING:
-[16:20:23] [main/WARN]: :>  
-[16:20:23] [main/WARN]: :>  This plugin wasn't tested to be 'working'
-[16:20:23] [main/WARN]: :>  with ANY version of BungeeCord (and forks)
-[16:20:23] [main/WARN]: :>  apart from the versions listed below:
-[16:20:23] [main/WARN]: :>  
-[16:20:23] [main/WARN]: :>  - BungeeCord: 1.21-R0.1-SNAPSHOT:1265a99:1892
-[16:20:23] [main/WARN]: :>  - https://ci.md-5.net/job/BungeeCord/1892/artifact/bootstrap/target/BungeeCord.jar
-[16:20:23] [main/WARN]: :>  
-[16:20:23] [main/WARN]: :>  - Waterfall: 1.21-R0.1-SNAPSHOT:9ab9e2b:582
-[16:20:23] [main/WARN]: :>  - https://api.papermc.io/v2/projects/waterfall/versions/1.21/builds/582/downloads/waterfall-1.21-582.jar
-[16:20:23] [main/WARN]: :>  
-[16:20:23] [main/WARN]: :>  This is not a Bukkit/Spigot plugin!
-[16:20:23] [main/WARN]: :>  
-[16:20:23] [main/WARN]: :>  Use "-Deaglerxbungee.stfu=true" to hide
-[16:20:23] [main/WARN]: :>  
-[16:20:23] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
-[16:20:23] [main/INFO]: Loaded plugin EaglercraftXBungee version 1.3.5 by lax1dude
-[16:20:23] [main/WARN]: Forced host server pvp is not defined
-[16:20:23] [main/INFO]: Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
-[16:20:23] [main/INFO]: Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
-[16:20:23] [main/INFO] [AuthMeBungee]: Current auth servers:
-[16:20:23] [main/INFO] [AuthMeBungee]: > lobby
-[16:20:23] [main/INFO] [AuthMeBungee]: > survival
-[16:20:23] [main/INFO]: Enabled plugin AuthMeBungee version 2.2.0-beta1 by AuthMeTeam
-[16:20:23] [main/INFO]: Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
-[16:20:23] [main/INFO]: Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
-[16:20:23] [main/INFO]: Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
-[16:20:23] [main/INFO]: Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
-[16:20:23] [main/ERROR] [EaglercraftXBungee]: Online mode is set to false! Authentication system has been disabled
-[16:20:23] [Netty Boss IO Thread #0/INFO] [EaglercraftXBungee]: Eaglercraft is listening on: /0.0.0.0:8081
-[16:20:23] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
-[16:20:23] [main/WARN] [EaglercraftXBungee]: Voice chat enabled, not recommended for public servers!
-[16:20:23] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.3.5 by lax1dude
-[16:20:23] [EaglerXBungee: Update Service Tasks/INFO] [EaglercraftXBungee]: Loaded certificate: /var/opt/minecraft/crafty/crafty-4/servers/c7c4b844-1105-4f2a-9941-23683625f121/plugins/EaglercraftXBungee/eagcert/$dl.2c63d6a9be9d273db57d50cb026093cb97ea6e54.cert
-[16:20:23] [EaglerXBungee: Update Service Tasks/INFO] [EaglercraftXBungee]: Loaded certificate: /var/opt/minecraft/crafty/crafty-4/servers/c7c4b844-1105-4f2a-9941-23683625f121/plugins/EaglercraftXBungee/eagcert/$dl.ba375b9add3c01ca11899be958188189a3885a59.cert
-[16:20:23] [Netty Boss IO Thread #1/INFO]: Listening on /0.0.0.0:25577
-[16:20:26] [Netty Worker IO Thread #0/INFO]: [/127.0.0.1:45384] <-> InitialHandler has pinged
-[16:20:28] [Netty Worker IO Thread #1/INFO]: [/127.0.0.1:45400] <-> InitialHandler has pinged
-[16:20:31] [Netty Worker IO Thread #2/INFO]: [/127.0.0.1:40976] <-> InitialHandler has pinged
-[16:20:33] [Netty Worker IO Thread #3/INFO]: [/127.0.0.1:40978] <-> InitialHandler has pinged
-[16:20:36] [Netty Worker IO Thread #4/INFO]: [/127.0.0.1:40984] <-> InitialHandler has pinged
-[16:20:38] [Netty Worker IO Thread #5/INFO]: [/127.0.0.1:40996] <-> InitialHandler has pinged
-[16:20:41] [Netty Worker IO Thread #6/INFO]: [/127.0.0.1:44064] <-> InitialHandler has pinged
-[16:20:43] [Netty Worker IO Thread #7/INFO]: [/127.0.0.1:44078] <-> InitialHandler has pinged
-[16:20:46] [Netty Worker IO Thread #0/INFO]: [/127.0.0.1:44092] <-> InitialHandler has pinged
-[16:20:48] [Netty Worker IO Thread #1/INFO]: [/127.0.0.1:44096] <-> InitialHandler has pinged
-[16:20:50] [Netty Worker IO Thread #2/INFO]: [/127.0.0.1:44104] <-> InitialHandler has pinged
-[16:20:51] [Netty Worker IO Thread #3/INFO]: [/127.0.0.1:34110] <-> InitialHandler has pinged
-[16:20:53] [Netty Worker IO Thread #4/INFO]: [/127.0.0.1:34112] <-> InitialHandler has pinged
-[16:20:56] [Netty Worker IO Thread #5/INFO]: [/127.0.0.1:34114] <-> InitialHandler has pinged
-[16:20:58] [Netty Worker IO Thread #6/INFO]: [/127.0.0.1:34118] <-> InitialHandler has pinged
-[16:21:01] [Netty Worker IO Thread #7/INFO]: [/127.0.0.1:36468] <-> InitialHandler has pinged
-[16:21:03] [Netty Worker IO Thread #0/INFO]: [/127.0.0.1:36474] <-> InitialHandler has pinged
-[16:21:05] [Netty Worker IO Thread #1/INFO]: [/127.0.0.1:36490] <-> InitialHandler has pinged
-[16:21:06] [Netty Worker IO Thread #2/INFO]: [/127.0.0.1:36492] <-> InitialHandler has pinged
-[16:21:06] [Netty Worker IO Thread #3/INFO]: [/127.0.0.1:36500] <-> InitialHandler has pinged
-[16:21:08] [Netty Worker IO Thread #4/INFO]: [/127.0.0.1:36504] <-> InitialHandler has pinged
-[16:21:10] [Netty Worker IO Thread #5/INFO]: [/127.0.0.1:36508] <-> InitialHandler has pinged
-[16:21:11] [Netty Worker IO Thread #6/INFO]: [/127.0.0.1:58446] <-> InitialHandler has pinged
-[16:21:13] [Netty Worker IO Thread #7/INFO]: [/127.0.0.1:58458] <-> InitialHandler has pinged
-[16:21:15] [Netty Worker IO Thread #0/INFO]: [/127.0.0.1:58460] <-> InitialHandler has pinged
-[16:21:16] [Netty Worker IO Thread #1/INFO]: [/127.0.0.1:58472] <-> InitialHandler has pinged
-[16:21:18] [Netty Worker IO Thread #2/INFO]: [/127.0.0.1:58488] <-> InitialHandler has pinged
-[16:21:20] [Netty Worker IO Thread #4/INFO]: [/127.0.0.1:58498] <-> InitialHandler has pinged
-[16:21:20] [Netty Worker IO Thread #3/INFO]: [/127.0.0.1:58496] <-> InitialHandler has pinged
-[16:21:21] [Netty Worker IO Thread #5/INFO]: [/127.0.0.1:41952] <-> InitialHandler has pinged
-[16:21:23] [Netty Worker IO Thread #6/INFO]: [/127.0.0.1:41956] <-> InitialHandler has pinged
-[16:21:25] [Netty Worker IO Thread #7/INFO]: [/127.0.0.1:41968] <-> InitialHandler has pinged
-[16:21:26] [Netty Worker IO Thread #0/INFO]: [/127.0.0.1:41982] <-> InitialHandler has pinged
-[16:21:28] [Netty Worker IO Thread #1/INFO]: [/127.0.0.1:41986] <-> InitialHandler has pinged
-[16:21:30] [Netty Worker IO Thread #2/INFO]: [/127.0.0.1:41988] <-> InitialHandler has pinged
-[16:21:31] [Netty Worker IO Thread #3/INFO]: [/127.0.0.1:50828] <-> InitialHandler has pinged
-[16:21:33] [Netty Worker IO Thread #4/INFO]: [/127.0.0.1:50844] <-> InitialHandler has pinged
-[16:21:35] [Netty Worker IO Thread #5/INFO]: [/127.0.0.1:50856] <-> InitialHandler has pinged
-[16:21:36] [Netty Worker IO Thread #6/INFO]: [/127.0.0.1:50870] <-> InitialHandler has pinged
-[16:21:38] [Netty Worker IO Thread #7/INFO]: [/127.0.0.1:50884] <-> InitialHandler has pinged
-[16:21:40] [Netty Worker IO Thread #0/INFO]: [/127.0.0.1:50890] <-> InitialHandler has pinged
-[16:21:41] [Netty Worker IO Thread #1/INFO]: [/127.0.0.1:45102] <-> InitialHandler has pinged
-[16:21:43] [Netty Worker IO Thread #2/INFO]: [/127.0.0.1:45104] <-> InitialHandler has pinged
-[16:21:45] [Netty Worker IO Thread #3/INFO]: [/127.0.0.1:45120] <-> InitialHandler has pinged
-[16:21:46] [Netty Worker IO Thread #4/INFO]: [/127.0.0.1:45126] <-> InitialHandler has pinged
-[16:21:48] [Netty Worker IO Thread #5/INFO]: [/127.0.0.1:45138] <-> InitialHandler has pinged
-[16:21:50] [Netty Worker IO Thread #6/INFO]: [/127.0.0.1:45144] <-> InitialHandler has pinged
-[16:21:50] [Netty Worker IO Thread #7/INFO]: [/127.0.0.1:45154] <-> InitialHandler has pinged
-[16:21:51] [Netty Worker IO Thread #0/INFO]: [/127.0.0.1:45402] <-> InitialHandler has pinged
-[16:21:53] [Netty Worker IO Thread #1/INFO]: [/127.0.0.1:45414] <-> InitialHandler has pinged
-[16:21:55] [Netty Worker IO Thread #2/INFO]: [/127.0.0.1:45416] <-> InitialHandler has pinged
-[16:21:56] [Netty Worker IO Thread #3/INFO]: [/127.0.0.1:45426] <-> InitialHandler has pinged
-[16:21:58] [Netty Worker IO Thread #4/INFO]: [/127.0.0.1:45442] <-> InitialHandler has pinged
-[16:22:00] [Netty Worker IO Thread #5/INFO]: [/127.0.0.1:45456] <-> InitialHandler has pinged
-[16:22:01] [Netty Worker IO Thread #6/INFO]: [/127.0.0.1:34350] <-> InitialHandler has pinged
-[16:22:03] [Netty Worker IO Thread #7/INFO]: [/127.0.0.1:34364] <-> InitialHandler has pinged
-[16:22:05] [Netty Worker IO Thread #0/INFO]: [/127.0.0.1:34374] <-> InitialHandler has pinged
-[16:22:06] [Netty Worker IO Thread #1/INFO]: [/127.0.0.1:34384] <-> InitialHandler has pinged
-[16:22:08] [Netty Worker IO Thread #2/INFO]: [/127.0.0.1:34400] <-> InitialHandler has pinged
-[16:22:10] [Netty Worker IO Thread #3/INFO]: [/127.0.0.1:34402] <-> InitialHandler has pinged
-[16:22:11] [Netty Worker IO Thread #4/INFO]: [/127.0.0.1:51958] <-> InitialHandler has pinged
-[16:22:13] [Netty Worker IO Thread #5/INFO]: [/127.0.0.1:51974] <-> InitialHandler has pinged
-[16:22:15] [Netty Worker IO Thread #6/INFO]: [/127.0.0.1:51978] <-> InitialHandler has pinged
-[16:22:16] [Netty Worker IO Thread #7/INFO]: [/127.0.0.1:51990] <-> InitialHandler has pinged
-[16:22:18] [Netty Worker IO Thread #0/INFO]: [/127.0.0.1:52002] <-> InitialHandler has pinged
-[16:22:20] [Netty Worker IO Thread #1/INFO]: [/127.0.0.1:52004] <-> InitialHandler has pinged
-[16:22:20] [Netty Worker IO Thread #2/INFO]: [/127.0.0.1:52018] <-> InitialHandler has pinged
-[16:22:21] [Netty Worker IO Thread #3/INFO]: [/127.0.0.1:58708] <-> InitialHandler has pinged
-[16:22:23] [Netty Worker IO Thread #4/INFO]: [/127.0.0.1:58710] <-> InitialHandler has pinged
-[16:22:25] [Netty Worker IO Thread #5/INFO]: [/127.0.0.1:58712] <-> InitialHandler has pinged
-[16:22:26] [Netty Worker IO Thread #6/INFO]: [/127.0.0.1:58728] <-> InitialHandler has pinged
-[16:22:28] [Netty Worker IO Thread #7/INFO]: [/127.0.0.1:58732] <-> InitialHandler has pinged
-[16:22:30] [Netty Worker IO Thread #0/INFO]: [/127.0.0.1:58734] <-> InitialHandler has pinged
-[16:22:31] [Netty Worker IO Thread #1/INFO]: [/127.0.0.1:56218] <-> InitialHandler has pinged
-[16:22:33] [Netty Worker IO Thread #2/INFO]: [/127.0.0.1:56232] <-> InitialHandler has pinged
-[16:22:35] [Netty Worker IO Thread #3/INFO]: [/127.0.0.1:56240] <-> InitialHandler has pinged
-[16:22:36] [Netty Worker IO Thread #4/INFO]: [/127.0.0.1:56248] <-> InitialHandler has pinged
-[16:22:38] [Netty Worker IO Thread #5/INFO]: [/127.0.0.1:56254] <-> InitialHandler has pinged
-[16:22:40] [Netty Worker IO Thread #6/INFO]: [/127.0.0.1:56264] <-> InitialHandler has pinged
-[16:22:41] [Netty Worker IO Thread #7/INFO]: [/127.0.0.1:54000] <-> InitialHandler has pinged
-[16:22:43] [Netty Worker IO Thread #0/INFO]: [/127.0.0.1:54008] <-> InitialHandler has pinged
-[16:22:45] [Netty Worker IO Thread #1/INFO]: [/127.0.0.1:54024] <-> InitialHandler has pinged
-[16:22:46] [Netty Worker IO Thread #2/INFO]: [/127.0.0.1:54026] <-> InitialHandler has pinged
-[16:22:48] [Netty Worker IO Thread #3/INFO]: [/127.0.0.1:54032] <-> InitialHandler has pinged
-[16:22:50] [Netty Worker IO Thread #4/INFO]: [/127.0.0.1:54046] <-> InitialHandler has pinged
-[16:22:50] [Netty Worker IO Thread #5/INFO]: [/127.0.0.1:54052] <-> InitialHandler has pinged
-[16:22:51] [Netty Worker IO Thread #6/INFO]: [/127.0.0.1:56660] <-> InitialHandler has pinged
-[16:22:53] [Netty Worker IO Thread #7/INFO]: [/127.0.0.1:56670] <-> InitialHandler has pinged
-[16:22:55] [Netty Worker IO Thread #0/INFO]: [/127.0.0.1:56680] <-> InitialHandler has pinged
-[16:22:56] [Netty Worker IO Thread #1/INFO]: [/127.0.0.1:56684] <-> InitialHandler has pinged
-[16:22:58] [Netty Worker IO Thread #2/INFO]: [/127.0.0.1:56694] <-> InitialHandler has pinged
-[16:23:00] [Netty Worker IO Thread #3/INFO]: [/127.0.0.1:56698] <-> InitialHandler has pinged
-[16:23:01] [Netty Worker IO Thread #4/INFO]: [/127.0.0.1:60676] <-> InitialHandler has pinged
-[16:23:03] [Netty Worker IO Thread #5/INFO]: [/127.0.0.1:60690] <-> InitialHandler has pinged
-[16:23:05] [Netty Worker IO Thread #6/INFO]: [/127.0.0.1:60692] <-> InitialHandler has pinged
-[16:23:06] [Netty Worker IO Thread #7/INFO]: [/127.0.0.1:60694] <-> InitialHandler has pinged
-[16:23:08] [Netty Worker IO Thread #0/INFO]: [/127.0.0.1:60702] <-> InitialHandler has pinged
-[16:23:10] [Netty Worker IO Thread #1/INFO]: [/127.0.0.1:60706] <-> InitialHandler has pinged
-[16:23:11] [Netty Worker IO Thread #2/INFO]: [/127.0.0.1:38182] <-> InitialHandler has pinged
-[16:23:13] [Netty Worker IO Thread #3/INFO]: [/127.0.0.1:38190] <-> InitialHandler has pinged
-[16:23:15] [Netty Worker IO Thread #4/INFO]: [/127.0.0.1:38198] <-> InitialHandler has pinged
-[16:23:16] [Netty Worker IO Thread #5/INFO]: [/127.0.0.1:38204] <-> InitialHandler has pinged
-[16:23:18] [Netty Worker IO Thread #6/INFO]: [/127.0.0.1:38218] <-> InitialHandler has pinged
-[16:23:20] [Netty Worker IO Thread #7/INFO]: [/127.0.0.1:38226] <-> InitialHandler has pinged
-[16:23:20] [Netty Worker IO Thread #0/INFO]: [/127.0.0.1:38230] <-> InitialHandler has pinged
-[16:23:21] [Netty Worker IO Thread #1/INFO]: [/127.0.0.1:47570] <-> InitialHandler has pinged
-[16:23:23] [Netty Worker IO Thread #2/INFO]: [/127.0.0.1:47572] <-> InitialHandler has pinged
-[16:23:25] [Netty Worker IO Thread #3/INFO]: [/127.0.0.1:47578] <-> InitialHandler has pinged
-[16:23:26] [Netty Worker IO Thread #4/INFO]: [/127.0.0.1:47582] <-> InitialHandler has pinged
-[16:23:28] [Netty Worker IO Thread #5/INFO]: [/127.0.0.1:47586] <-> InitialHandler has pinged
-[16:23:30] [Netty Worker IO Thread #6/INFO]: [/127.0.0.1:47594] <-> InitialHandler has pinged
-[16:23:31] [Netty Worker IO Thread #7/INFO]: [/127.0.0.1:56906] <-> InitialHandler has pinged
-[16:23:33] [Netty Worker IO Thread #0/INFO]: [/127.0.0.1:56912] <-> InitialHandler has pinged
-[16:23:35] [Netty Worker IO Thread #1/INFO]: [/127.0.0.1:56920] <-> InitialHandler has pinged
-[16:23:36] [Netty Worker IO Thread #2/INFO]: [/127.0.0.1:56926] <-> InitialHandler has pinged
-[16:23:38] [Netty Worker IO Thread #3/INFO]: [/127.0.0.1:56936] <-> InitialHandler has pinged
-[16:23:40] [Netty Worker IO Thread #4/INFO]: [/127.0.0.1:56942] <-> InitialHandler has pinged
-[16:23:41] [Netty Worker IO Thread #5/INFO]: [/127.0.0.1:57610] <-> InitialHandler has pinged
-[16:23:43] [Netty Worker IO Thread #6/INFO]: [/127.0.0.1:57626] <-> InitialHandler has pinged
-[16:23:45] [Netty Worker IO Thread #7/INFO]: [/127.0.0.1:57636] <-> InitialHandler has pinged
-[16:23:46] [Netty Worker IO Thread #0/INFO]: [/127.0.0.1:57644] <-> InitialHandler has pinged
-[16:23:48] [Netty Worker IO Thread #1/INFO]: [/127.0.0.1:57650] <-> InitialHandler has pinged
-[16:23:50] [Netty Worker IO Thread #2/INFO]: [/127.0.0.1:57660] <-> InitialHandler has pinged
-[16:23:50] [Netty Worker IO Thread #3/INFO]: [/127.0.0.1:57668] <-> InitialHandler has pinged
-[16:23:51] [Netty Worker IO Thread #4/INFO]: [/127.0.0.1:44742] <-> InitialHandler has pinged
-[16:23:52] [Netty Worker IO Thread #5/INFO]: [/127.0.0.1:44758] <-> InitialHandler has pinged
-[16:23:53] [Netty Worker IO Thread #6/INFO]: [/127.0.0.1:44774] <-> InitialHandler has pinged
-[16:23:55] [Netty Worker IO Thread #7/INFO]: [/127.0.0.1:44784] <-> InitialHandler has pinged
-[16:23:56] [Netty Worker IO Thread #0/INFO]: [/127.0.0.1:44800] <-> InitialHandler has pinged
-[16:23:58] [Netty Worker IO Thread #1/INFO]: [/127.0.0.1:44806] <-> InitialHandler has pinged
-[16:24:00] [Netty Worker IO Thread #2/INFO]: [/127.0.0.1:44808] <-> InitialHandler has pinged
-[16:24:01] [Netty Worker IO Thread #3/INFO]: [/127.0.0.1:54584] <-> InitialHandler has pinged
-[16:24:03] [Netty Worker IO Thread #4/INFO]: [/127.0.0.1:54590] <-> InitialHandler has pinged
-[16:24:05] [Netty Worker IO Thread #5/INFO]: [/127.0.0.1:54602] <-> InitialHandler has pinged
-[16:24:06] [Netty Worker IO Thread #6/INFO]: [/127.0.0.1:54608] <-> InitialHandler has pinged
-[16:24:08] [Netty Worker IO Thread #7/INFO]: [/127.0.0.1:54620] <-> InitialHandler has pinged
-[16:24:08] [Netty Worker IO Thread #0/INFO]: [/127.0.0.1:54622] <-> InitialHandler has pinged
-[16:24:10] [Netty Worker IO Thread #1/INFO]: [/127.0.0.1:54632] <-> InitialHandler has pinged
-[16:24:11] [Netty Worker IO Thread #2/INFO]: [/127.0.0.1:38040] <-> InitialHandler has pinged
-[16:24:13] [Netty Worker IO Thread #3/INFO]: [/127.0.0.1:38050] <-> InitialHandler has pinged
-[16:24:15] [Netty Worker IO Thread #4/INFO]: [/127.0.0.1:38064] <-> InitialHandler has pinged
-[16:24:15] [Netty Worker IO Thread #5/INFO]: [/127.0.0.1:38074] <-> InitialHandler has pinged
-[16:24:16] [Netty Worker IO Thread #6/INFO]: [/127.0.0.1:38084] <-> InitialHandler has pinged
-[16:24:18] [Netty Worker IO Thread #7/INFO]: [/127.0.0.1:38098] <-> InitialHandler has pinged
-[16:24:20] [Netty Worker IO Thread #1/INFO]: [/127.0.0.1:38106] <-> InitialHandler has pinged
-[16:24:20] [Netty Worker IO Thread #0/INFO]: [/127.0.0.1:38100] <-> InitialHandler has pinged
-[16:24:21] [Netty Worker IO Thread #2/INFO]: [/127.0.0.1:45148] <-> InitialHandler has pinged
-[16:24:23] [Netty Worker IO Thread #3/INFO]: [/127.0.0.1:45156] <-> InitialHandler has pinged
-[16:24:25] [Netty Worker IO Thread #4/INFO]: [/127.0.0.1:45166] <-> InitialHandler has pinged
-[16:24:26] [Netty Worker IO Thread #5/INFO]: [/127.0.0.1:45180] <-> InitialHandler has pinged
-[16:24:28] [Netty Worker IO Thread #6/INFO]: [/127.0.0.1:45190] <-> InitialHandler has pinged
-[16:24:30] [Netty Worker IO Thread #7/INFO]: [/127.0.0.1:45200] <-> InitialHandler has pinged
-[16:24:31] [Netty Worker IO Thread #0/INFO]: [/127.0.0.1:37436] <-> InitialHandler has pinged
-[16:24:33] [Netty Worker IO Thread #1/INFO]: [/127.0.0.1:37440] <-> InitialHandler has pinged
-[16:24:35] [Netty Worker IO Thread #2/INFO]: [/127.0.0.1:37454] <-> InitialHandler has pinged
+[23:05:25] [main/INFO]: Using mbed TLS based native cipher.
+[23:05:25] [main/INFO]: Using zlib based native compressor.
+[23:05:25] [main/INFO]: Enabled Waterfall version git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562
+[23:05:25] [main/INFO]: Not on Windows, attempting to use enhanced EpollEventLoop
+[23:05:25] [main/INFO]: Epoll is working, utilising it!
+[23:05:25] [main/INFO]: Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+[23:05:25] [main/INFO]: Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+[23:05:25] [main/INFO]: Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+[23:05:25] [main/INFO]: Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+[23:05:25] [main/INFO]: Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+[23:05:25] [main/INFO]: Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+[23:05:25] [main/INFO]: Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[23:05:25] [main/INFO]: Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[23:05:25] [main/INFO]: Loaded plugin AuthMeBungee version 2.2.0-beta1 by AuthMeTeam
+[23:05:25] [main/INFO]: Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[23:05:25] [main/INFO]: Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[23:05:25] [main/INFO]: Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[23:05:25] [main/INFO]: Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[23:05:25] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[23:05:25] [main/WARN]: :>  
+[23:05:25] [main/WARN]: :>      EAGLERCRAFTXBUNGEE WARNING:
+[23:05:25] [main/WARN]: :>  
+[23:05:25] [main/WARN]: :>  This plugin wasn't tested to be 'working'
+[23:05:25] [main/WARN]: :>  with ANY version of BungeeCord (and forks)
+[23:05:25] [main/WARN]: :>  apart from the versions listed below:
+[23:05:25] [main/WARN]: :>  
+[23:05:25] [main/WARN]: :>  - BungeeCord: 1.21-R0.1-SNAPSHOT:1265a99:1892
+[23:05:25] [main/WARN]: :>  - https://ci.md-5.net/job/BungeeCord/1892/artifact/bootstrap/target/BungeeCord.jar
+[23:05:25] [main/WARN]: :>  
+[23:05:25] [main/WARN]: :>  - Waterfall: 1.21-R0.1-SNAPSHOT:9ab9e2b:582
+[23:05:25] [main/WARN]: :>  - https://api.papermc.io/v2/projects/waterfall/versions/1.21/builds/582/downloads/waterfall-1.21-582.jar
+[23:05:25] [main/WARN]: :>  
+[23:05:25] [main/WARN]: :>  This is not a Bukkit/Spigot plugin!
+[23:05:25] [main/WARN]: :>  
+[23:05:25] [main/WARN]: :>  Use "-Deaglerxbungee.stfu=true" to hide
+[23:05:25] [main/WARN]: :>  
+[23:05:25] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[23:05:25] [main/INFO]: Loaded plugin EaglercraftXBungee version 1.3.5 by lax1dude
+[23:05:25] [main/WARN]: Forced host server pvp is not defined
+[23:05:25] [main/INFO]: Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[23:05:25] [main/INFO]: Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[23:05:25] [main/INFO] [AuthMeBungee]: Current auth servers:
+[23:05:25] [main/INFO] [AuthMeBungee]: > lobby
+[23:05:25] [main/INFO] [AuthMeBungee]: > survival
+[23:05:25] [main/INFO]: Enabled plugin AuthMeBungee version 2.2.0-beta1 by AuthMeTeam
+[23:05:25] [main/INFO]: Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[23:05:25] [main/INFO]: Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[23:05:25] [main/INFO]: Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[23:05:25] [main/INFO]: Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[23:05:25] [main/ERROR] [EaglercraftXBungee]: Online mode is set to false! Authentication system has been disabled
+[23:05:25] [Netty Boss IO Thread #0/INFO] [EaglercraftXBungee]: Eaglercraft is listening on: /0.0.0.0:8081
+[23:05:25] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+[23:05:25] [main/WARN] [EaglercraftXBungee]: Voice chat enabled, not recommended for public servers!
+[23:05:25] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.3.5 by lax1dude
+[23:05:25] [EaglerXBungee: Update Service Tasks/INFO] [EaglercraftXBungee]: Loaded certificate: /workspaces/EaglercraftX-Server/bungee/plugins/EaglercraftXBungee/eagcert/$dl.ba375b9add3c01ca11899be958188189a3885a59.cert
+[23:05:25] [EaglerXBungee: Update Service Tasks/INFO] [EaglercraftXBungee]: Loaded certificate: /workspaces/EaglercraftX-Server/bungee/plugins/EaglercraftXBungee/eagcert/$dl.2c63d6a9be9d273db57d50cb026093cb97ea6e54.cert
+[23:05:25] [Netty Boss IO Thread #1/INFO]: Listening on /0.0.0.0:25577
+[23:09:22] [Shutdown Thread/INFO]: Closing listener [id: 0xf66c2750, L:/[0:0:0:0:0:0:0:0%0]:25577]
+[23:09:22] [Shutdown Thread/INFO]: Closing pending connections
+[23:09:22] [Shutdown Thread/INFO]: Disconnecting 0 connections
+[23:09:23] [Shutdown Thread/INFO]: Saving reconnect locations
+[23:09:23] [Shutdown Thread/INFO]: Disabling plugins
+[23:09:23] [Shutdown Thread/INFO] [EaglercraftXBungee]: Eaglercraft listener closed: /0.0.0.0:8081
+[23:09:23] [Shutdown Thread/INFO] [EaglercraftXBungee]: Successfully disconnected from database 'jdbc:sqlite:eaglercraft_skins_cache.db'
+[23:09:23] [Shutdown Thread/INFO]: Closing IO threads
+[23:09:25] [Shutdown Thread/INFO]: Thank you and goodbye
